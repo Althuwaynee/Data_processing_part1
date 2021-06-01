@@ -1,1 +1,4 @@
-# data_processing_part1
+# Unzip folders and sub folders using R code only
+In this code, we will unzip folders that contain subfolders with zipped files. 
+
+To watch the tutorial on Youtube, please visit:
